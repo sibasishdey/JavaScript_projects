@@ -1,0 +1,4 @@
+Hi,
+
+This is a file just for testing about git.
+in this folder I will create Javascript projects for pratice.
